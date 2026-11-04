@@ -1,4 +1,4 @@
-# VectorLab
+
 
 The finished website is in this folder (`index.html` + `assets/`), so GitHub Pages
 (Settings → Pages → Deploy from a branch → `main` / `(root)`) serves it directly.
